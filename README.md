@@ -95,22 +95,4 @@ Azure
 
 https://linkedin.com/in/oguztasgin
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=oguztasgin1&show_icons=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguztasgin1&layout=compact"/>
-
-<img src="https://streak-stats.demolab.com?user=oguztasgin1"/>
-
-</p>
-
----
-
-## 💭 Philosophy
-
-> "The best engineering is the engineering that can be automated."
