@@ -1,98 +1,83 @@
-<h1 align="center">
-Hi 👋 I'm Oğuz Taşkın
-</h1>
+<h1 align="center">Hi 👋 I'm Oğuz Taşkın</h1>
 
-<h3 align="center">
-Mechanical Engineer • AI Builder • Construction Technology
-</h3>
+<h3 align="center">Mechanical Engineer with a background in Software Development</h3>
 
 <p align="center">
-I build software that solves real engineering problems.
+Interested in bringing engineering and software together.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=oguztasgin1&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=oguztasgin1&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🏗 Mechanical Engineer at **Ziraat GYO**
-- 🤖 Building AI-assisted engineering applications
-- 🔥 Developing a **Fire Code Compliance Engine** using AI & Codex
-- 📐 Working on digitizing engineering workflows in the construction industry
-- 💡 Passionate about combining software with real-world engineering
-- 🌍 Interested in AI, Construction Technology (ConTech), Automation and System Design
+I'm a Mechanical Engineer currently working at **Ziraat GYO**, mainly involved in the technical review and implementation processes of mechanical systems in construction and real estate projects.
 
----
+I also have a background in software development, with experience in Java, Spring Boot and React.
 
-## 🛠 Current Projects
-
-### 🔥 Fire Code Compliance Engine
-
-An AI-powered application that checks building projects against:
-
-- NFPA Standards
-- Turkish Fire Regulations (BYKHY)
-- Mechanical Design Rules
-- Engineering Best Practices
-
-Goal:
-> Reduce engineering review time from hours to minutes.
+Recently, I've been working on personal projects that combine these two areas — mainly exploring how software and AI tools can be used to make repetitive engineering checks and technical processes more systematic.
 
 ---
 
-### 🏢 Construction Digitalization
+## Current Project
 
-Building internal tools for:
+### 🔥 Fire Safety Compliance
 
-- Mechanical Design Review
-- Engineering Checklists
-- Project Automation
-- Technical Report Generation
-- AI-assisted Engineering Decisions
+A personal project focused on turning fire safety requirements into structured software-based checks.
 
----
+The project currently focuses on:
 
-## 💻 Tech Stack
+- Turkish Fire Regulation (BYKHY)
+- Building and fire safety requirements
+- Rule-based compliance checks
+- Engineering calculations
+- Structured reporting
 
-### Languages
-
-Java • JavaScript • SQL
-
-### Backend
-
-Spring Boot • REST API
-
-### Frontend
-
-React
-
-### AI
-
-OpenAI • Codex • Prompt Engineering
-
-### Database
-
-PostgreSQL • Redis
-
-### DevOps
-
-Docker • Kubernetes • Git
-
-### Cloud
-
-Azure
+The project is also an opportunity for me to explore the practical use of AI-assisted development tools such as Codex in an engineering context.
 
 ---
 
-## 📫 Contact
+## Engineering & Software
+
+My main professional background is **Mechanical Engineering**, while software development is an area I continue to work on and use in my engineering projects.
+
+**Engineering**
+
+Mechanical Systems • HVAC • Fire Safety • Technical Project Review • Testing & Commissioning
+
+**Software**
+
+Java • Spring Boot • React • JavaScript • SQL • PostgreSQL • Git
+
+**Previously worked with**
+
+Docker • Kubernetes • Redis • RabbitMQ • Elasticsearch
+
+---
+
+## What I'm Working On
+
+I'm particularly interested in small, practical applications that can support engineering work, such as:
+
+- Regulation and compliance checks
+- Engineering calculations
+- Project review tools
+- Technical documentation
+- Automating repetitive engineering tasks
+
+---
+
+## Contact
 
 📧 **tasginoguz@gmail.com**
 
-💼 LinkedIn
+💼 [LinkedIn](https://linkedin.com/in/oguztasgin)
 
-https://linkedin.com/in/oguztasgin
+---
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguztasgin1&layout=compact" />
+</p>
